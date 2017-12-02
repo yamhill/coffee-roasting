@@ -1,0 +1,75 @@
+Roast title: PNG Korgua A. Jan 9, 2017
+
+Rao ratio % = 100
+
+Log created at 15:59:36 09/01/2017
+Use Options|Set template for new log to modify this template.
+------------------------------------------------------
+Bean/Blend name:PNG Korgua A
+
+Profile description: trying to understand the quest
+
+Roast notes:spent some time trying to get the roaster to idle at a t1 temp of 350.  Not having much success... It seems close at fan 4 and 6-7.5w
+Fan 4 and 8 watts is close to t2 350 idle.
+
+Cupping results:
+
+Roast Logger Copyright (c) Tom Coxon (GreenBean TMC).
+Roast started at 16:58:43 09/01/2017
+Elapsed time , T1 , T2 , Event type
+Heat , Fan
+00:00,432.2,358.2,Beans loaded
+100,0
+00:05,432.0,359.2,timer
+100,0
+00:10,430.1,358.4,timer
+100,0
+00:15,405.0,357.2,timer
+100,0
+00:20,364.3,350.9,timer
+100,0
+00:25,328.7,345.4,timer
+100,0
+00:30,300.0,339.8,timer
+100,0
+00:35,276.4,334.0,timer
+100,0
+00:40,258.0,328.9,timer
+100,0
+00:45,242.7,324.2,timer
+100,0
+00:50,231.1,319.5,timer
+100,0
+00:54,223.5,316.1,Beans ejected
+100,0
+
+@actionT1Table
+120|null|30
+178|65|null
+null|null|null
+null|null|null
+null|null|null
+null|null|null
+null|null|null
+null|null|null
+null|null|null
+null|null|null
+
+@actionSecsFCTable
+60|50|null
+null|null|null
+null|null|null
+null|null|null
+null|null|null
+null|null|null
+null|null|null
+null|null|null
+null|null|null
+null|null|null
+
+@actionResetTable
+100|0
+
+@loadBeansTable
+146
+
